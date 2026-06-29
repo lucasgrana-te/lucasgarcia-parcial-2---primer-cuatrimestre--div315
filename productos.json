@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "nombre": "leche entera",
+        "categoria": "lacteos",
+        "precio": 1850,
+        "stock": 25
+
+    },
+    {
+        "id": 2,
+        "nombre": "arroz largo fino",
+        "categoria": "almacen",
+        "precio": 2400,
+        "stock": 28
+
+    },
+    {
+        "id": 3,
+        "nombre": "gaseosa cola 2.25L",
+        "categoria": "lacteos",
+        "precio": 3200,
+        "stock": 12
+
+    }
+
+
+]
